@@ -9,3 +9,4 @@ git reset [file]
 git reset --hard
 git diff [file]
 git pull [rep_ling] [branch_name] / git pull origin master
+git checkout [branch_name]
