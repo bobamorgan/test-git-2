@@ -10,3 +10,4 @@ git push origin master
 git reset [file]
 git diff [file]
 git reset --hard
+git checkout [branch_name]
